@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/Hotel-Booking-App/static/js/main.0fb40b10.js",
+    "static/media/img3.jpg": "/Hotel-Booking-App/static/media/img3.97bd9728a234ad1c7a6c.jpg",
+    "static/media/img5.jpg": "/Hotel-Booking-App/static/media/img5.419783212112694e4c7a.jpg",
+    "static/media/img2.jpeg": "/Hotel-Booking-App/static/media/img2.303b7cd7e12f471050f3.jpeg",
+    "static/media/img1.jpeg": "/Hotel-Booking-App/static/media/img1.d4cafa11321888f718f1.jpeg",
+    "static/media/hotelRoomInterior.jpg": "/Hotel-Booking-App/static/media/hotelRoomInterior.a3d2b8fe35501470ab00.jpg",
+    "static/media/img4.jpg": "/Hotel-Booking-App/static/media/img4.c8527bf129594cf6b03d.jpg",
+    "index.html": "/Hotel-Booking-App/index.html",
+    "main.0fb40b10.js.map": "/Hotel-Booking-App/static/js/main.0fb40b10.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0fb40b10.js"
+  ]
+}
